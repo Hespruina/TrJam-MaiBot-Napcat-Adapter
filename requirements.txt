@@ -1,0 +1,11 @@
+websockets
+aiohttp
+asyncio
+requests
+maim_message
+loguru
+pillow
+tomlkit
+rich
+sqlmodel
+watchdog
